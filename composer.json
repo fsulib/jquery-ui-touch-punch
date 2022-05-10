@@ -1,0 +1,15 @@
+{
+  "name": "fsulib/jquery-ui-touch-punch",
+  "description": "A module that adds the jquery-ui-touch library.",
+  "type": "drupal-library",
+  "keywords": ["Drupal"],
+  "homepage": "https://github.com/fsulib/jquery-ui-touch-punch",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Favenzio Calvo",
+      "email": "fcalvo@fsu.edu",
+      "role": "Maintainer"
+    }
+  ]
+}
